@@ -1,2 +1,2 @@
 # JavaScript
-juts the JavaScript practice code  i have done 
+just the JavaScript practice code  i have done 
